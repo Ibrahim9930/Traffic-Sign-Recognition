@@ -487,6 +487,3 @@ def stage4_images(sign = "all",show = True):
             cv2.waitKey()
         print(sign.category)
         print(sign.type)
-
-if  __name__ == '__main__':
-    
